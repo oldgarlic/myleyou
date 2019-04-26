@@ -1,0 +1,12 @@
+server:
+  port: 9002
+
+spring:
+  application:
+    name: registry-server
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:9002/eureka
+    fetch-registry: false
+    register-with-eureka: false

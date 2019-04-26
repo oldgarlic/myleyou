@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gateway/gateway.iml" filepath="$PROJECT_DIR$/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/item/item.iml" filepath="$PROJECT_DIR$/item/item.iml" />
+      <module fileurl="file://$PROJECT_DIR$/item/item-interface/item-interface.iml" filepath="$PROJECT_DIR$/item/item-interface/item-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/item/item-service/item-service.iml" filepath="$PROJECT_DIR$/item/item-service/item-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myleyou.iml" filepath="$PROJECT_DIR$/myleyou.iml" />
+      <module fileurl="file://$PROJECT_DIR$/registry/registry.iml" filepath="$PROJECT_DIR$/registry/registry.iml" />
+    </modules>
+  </component>
+</project>

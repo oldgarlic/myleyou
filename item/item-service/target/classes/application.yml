@@ -4,6 +4,11 @@ server:
 spring:
   application:
     name: item-server
+  datasource:
+    username: root
+    password: root
+    url: jdbc:mysql://localhost:3306/heima
+    driver-class-name: com.mysql.jdbc.Driver
 
 eureka:
   client:

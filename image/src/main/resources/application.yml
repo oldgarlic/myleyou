@@ -1,0 +1,18 @@
+server:
+  port: 8082
+spring:
+  application:
+    name: image-server
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:9002/eureka
+
+fdfs:
+  so-timeout: 1501
+  connect-timeout: 601
+  thumb-image: # 缩略图
+    width: 60
+    height: 60
+  tracker-list: # tracker地址
+    - 192.168.2.101:22122

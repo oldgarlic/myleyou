@@ -11,6 +11,12 @@ spring:
           enabled: true
           lower-case-service-id: true
       routes:
+        - id: image-route
+          uri: lb://IMAGE-SERVER
+          predicates:
+            - Path=/api/upload/**
+          filters:
+            - StripPrefix=2
         - id: item-route
           uri: lb://ITEM-SERVER
           predicates:

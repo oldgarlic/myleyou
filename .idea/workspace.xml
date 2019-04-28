@@ -2,75 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a2b2eba-5ca0-4a9c-a83d-d5a69197f518" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_5_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_spring_boot_autoconfigure_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_spring_boot_starter_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_tobato_fastdfs_client_1_26_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_persistence_api_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_47.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_coobird_thumbnailator_0_4_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_26.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_1_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_base_1_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_core_1_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_extra_1_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_spring_1_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_spring_boot_autoconfigure_2_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_spring_boot_starter_2_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_weekend_1_1_4_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/common.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/lll/common/utils/PageResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/src/main/java/com/lll/gateway/config/GlobalCorsConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/image.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/src/main/java/com/lll/image/ImageApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/src/main/java/com/lll/image/config/FastClientImporter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/src/main/java/com/lll/image/controller/ImageController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/src/main/java/com/lll/image/service/ImageService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/item/item-interface/src/main/java/com/lll/item/pojo/Brand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/item/item-interface/src/main/java/com/lll/item/pojo/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/item/item-service/src/main/java/com/lll/item/mapper/BrandMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/item/item-service/src/main/java/com/lll/item/web/BrandController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/item/item-service/src/main/java/com/lll/item/web/CategoryController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/item/item-service/src/test/java/com/lll/item/mapper/BrandMapperTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/item/item-service/src/main/java/com/lll/item/mapper/CategoryMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/item/item-service/src/main/java/com/lll/item/service/CategoryService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway/gateway.iml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/gateway.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/item/item-interface/item-interface.iml" beforeDir="false" afterPath="$PROJECT_DIR$/item/item-interface/item-interface.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/item/item-interface/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/item/item-interface/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/item/item-service/item-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/item/item-service/item-service.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/item/item-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/item/item-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/item/item-service/src/main/java/com/lll/item/ItemApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/item/item-service/src/main/java/com/lll/item/ItemApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/item/item-service/src/main/java/com/lll/item/web/TestController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/item/item-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/item/item-service/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/item/item-service/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/item/item-service/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/item/item-service/target/classes/com/lll/item/ItemApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/item/item-service/target/classes/com/lll/item/ItemApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/item/item-service/target/classes/com/lll/item/web/TestController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/item/item.iml" beforeDir="false" afterPath="$PROJECT_DIR$/item/item.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/item/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/item/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myleyou.iml" beforeDir="false" afterPath="$PROJECT_DIR$/myleyou.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/registry/registry.iml" beforeDir="false" afterPath="$PROJECT_DIR$/registry/registry.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/item/item-service/src/main/java/com/lll/item/web/CategoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/item/item-service/src/main/java/com/lll/item/web/CategoryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/item/item-service/src/test/java/com/lll/item/mapper/BrandMapperTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/item/item-service/src/test/java/com/lll/item/mapper/BrandMapperTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/item/item-service/target/classes/com/lll/item/web/CategoryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/item/item-service/target/classes/com/lll/item/web/CategoryController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/item/item-service/target/test-classes/com/lll/item/mapper/BrandMapperTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/item/item-service/target/test-classes/com/lll/item/mapper/BrandMapperTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -93,23 +31,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/item/item-interface/src/main/java/com/lll/item/pojo/Category.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="11" column="54" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/item/item-service/src/main/java/com/lll/item/web/CategoryController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="333">
+              <caret line="47" column="20" lean-forward="true" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -150,7 +76,6 @@
         <option value="$PROJECT_DIR$/common/src/main/java/com/lll/common/utils/PageResult.java" />
         <option value="$PROJECT_DIR$/gateway/src/main/java/com/lll/gateway/config/GlobalCorsConfig.java" />
         <option value="$PROJECT_DIR$/item/item-service/src/main/java/com/lll/item/mapper/BrandMapper.java" />
-        <option value="$PROJECT_DIR$/item/item-service/src/test/java/com/lll/item/mapper/BrandMapperTest.java" />
         <option value="$PROJECT_DIR$/item/item-service/pom.xml" />
         <option value="$PROJECT_DIR$/item/item-service/src/main/java/com/lll/item/service/BrandService.java" />
         <option value="$PROJECT_DIR$/item/item-service/src/main/java/com/lll/item/web/BrandController.java" />
@@ -166,6 +91,9 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/image/pom.xml" />
         <option value="$PROJECT_DIR$/item/item-interface/src/main/java/com/lll/item/pojo/Category.java" />
+        <option value="$PROJECT_DIR$/item/item-service/src/test/java/com/lll/item/mapper/BrandMapperTest.java" />
+        <option value="$PROJECT_DIR$/item/item-service/src/main/java/com/lll/item/mapper/CategoryMapper.java" />
+        <option value="$PROJECT_DIR$/item/item-service/src/main/java/com/lll/item/service/CategoryService.java" />
         <option value="$PROJECT_DIR$/item/item-service/src/main/java/com/lll/item/web/CategoryController.java" />
       </list>
     </option>
@@ -205,6 +133,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -266,13 +195,50 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="item" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myleyou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myleyou" type="462c0819:PsiDirectoryNode" />
+              <item name="item" type="462c0819:PsiDirectoryNode" />
+              <item name="item-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="item" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myleyou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myleyou" type="462c0819:PsiDirectoryNode" />
+              <item name="item" type="462c0819:PsiDirectoryNode" />
+              <item name="item-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myleyou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myleyou" type="462c0819:PsiDirectoryNode" />
+              <item name="item" type="462c0819:PsiDirectoryNode" />
+              <item name="item-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myleyou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myleyou" type="462c0819:PsiDirectoryNode" />
+              <item name="item" type="462c0819:PsiDirectoryNode" />
+              <item name="item-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -285,7 +251,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../leyou" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -324,7 +290,7 @@
     </option>
     <option name="contentProportion" value="0.15846995" />
   </component>
-  <component name="RunManager" selected="Spring Boot.ItemApp">
+  <component name="RunManager" selected="JUnit.BrandMapperTest.test">
     <configuration name="All in demo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <option name="PACKAGE_NAME" value="" />
@@ -392,8 +358,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Spring Boot.ItemApp" />
-        <item itemvalue="Spring Boot.ImageApp" />
         <item itemvalue="JUnit.BrandMapperTest.test" />
+        <item itemvalue="Spring Boot.ImageApp" />
         <item itemvalue="JUnit.All in demo" />
       </list>
     </recent_temporary>
@@ -411,16 +377,12 @@
       <workItem from="1556172055012" duration="2567000" />
       <workItem from="1556177415213" duration="4864000" />
       <workItem from="1556245837149" duration="19260000" />
+      <workItem from="1556373595337" duration="2473000" />
+      <workItem from="1556461611507" duration="1021000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BrandMapperTest_test - 2019.04.26 at 16h 01m 14s.xml">
-      <configuration name="BrandMapperTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BrandMapperTest_test - 2019.04.26 at 16h 01m 56s.xml">
-      <configuration name="BrandMapperTest.test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="BrandMapperTest_test - 2019.04.26 at 17h 01m 04s.xml">
       <configuration name="BrandMapperTest.test" configurationId="JUnit" />
     </history-entry>
@@ -445,9 +407,15 @@
     <history-entry file="BrandMapperTest_test - 2019.04.26 at 17h 27m 29s.xml">
       <configuration name="BrandMapperTest.test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="BrandMapperTest_test - 2019.04.27 at 22h 15m 46s.xml">
+      <configuration name="BrandMapperTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BrandMapperTest_test - 2019.04.27 at 22h 16m 49s.xml">
+      <configuration name="BrandMapperTest.test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26691000" />
+    <option name="totallyTimeSpent" value="30185000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -462,7 +430,7 @@
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49930266" visible="true" weight="0.19101876" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49930266" weight="0.24396783" />
       <window_info id="Structure" order="1" sideWeight="0.5006974" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.5006974" side_tool="true" weight="0.25" />
@@ -480,7 +448,7 @@
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067025" side_tool="true" weight="0.37569833" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.23709902" />
-      <window_info active="true" anchor="bottom" id="Run Dashboard" order="13" sideWeight="0.49932975" visible="true" weight="0.33100557" />
+      <window_info anchor="bottom" id="Run Dashboard" order="13" sideWeight="0.49932975" weight="0.32496512" />
       <window_info anchor="bottom" id="Messages" order="14" />
       <window_info anchor="bottom" id="Java Enterprise" order="15" weight="0.3282123" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -559,34 +527,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/item/item-service/src/main/java/com/lll/item/config/GlobalCorsConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/item/item-service/src/main/java/com/lll/item/web/TestController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#242#243#0" expanded="true" />
-            <element signature="e#269#270#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/item/item-interface/src/main/java/com/lll/item.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/item/item-service/src/main/java/com/lll/item/BrandService.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/item/item-service/src/main/java/com/lll/item/config/GlobalCorsConfig.java" />
+    <entry file="file://$PROJECT_DIR$/item/item-service/src/main/java/com/lll/item/web/TestController.java" />
+    <entry file="file://$PROJECT_DIR$/item/item-interface/src/main/java/com/lll/item.java" />
+    <entry file="file://$PROJECT_DIR$/item/item-service/src/main/java/com/lll/item/BrandService.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.4.RELEASE/spring-boot-autoconfigure-2.1.4.RELEASE.jar!/org/springframework/boot/autoconfigure/orm/jpa/JpaBaseConfiguration.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="56">
@@ -621,16 +565,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/item/item-service/src/main/java/com/lll/item/pojo/Brand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/item/item-service/src/main/java/com/lll/item/pojo/Brand.java" />
     <entry file="file://$PROJECT_DIR$/item/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="575">
@@ -638,9 +573,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/lll/common.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/lll/common.java" />
     <entry file="file://$PROJECT_DIR$/common/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -699,18 +632,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/item/item-service/src/test/java/com/lll/item/mapper/BrandMapperTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="65" selection-start-line="20" selection-start-column="65" selection-end-line="20" selection-end-column="65" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#561#562#0" expanded="true" />
-            <element signature="e#588#589#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/item/item-service/src/main/java/com/lll/item/web/BrandController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="284">
@@ -757,18 +678,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/image/src/main/java/ImageApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#303#304#0" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/image/src/main/java/ImageApp.java" />
     <entry file="file://$PROJECT_DIR$/image/src/main/java/com/lll/image/ImageApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -824,20 +734,69 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/item/item-interface/src/main/java/com/lll/item/pojo/Category.java">
+    <entry file="file://$PROJECT_DIR$/item/item-service/src/main/java/com/lll/item/mapper/CategoryMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="11" column="54" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+        <state relative-caret-position="176">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/item/item-service/src/test/java/com/lll/item/mapper/BrandMapperTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/item/item-interface/src/main/java/com/lll/item/pojo/Category.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/item/item-service/src/main/java/com/lll/item/service/CategoryService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#467#468#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.6.RELEASE/spring-web-5.1.6.RELEASE.jar!/org/springframework/http/HttpStatus.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.6.RELEASE/spring-web-5.1.6.RELEASE.jar!/org/springframework/http/ResponseEntity.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="104" column="45" selection-start-line="104" selection-start-column="45" selection-end-line="104" selection-end-column="45" />
+          <folding>
+            <element signature="e#3505#3506#0" expanded="true" />
+            <element signature="e#3549#3550#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/item/item-service/src/main/java/com/lll/item/web/CategoryController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="333">
+          <caret line="47" column="20" lean-forward="true" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
